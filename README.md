@@ -1,2 +1,0 @@
-# nudes
-simple telegram bot
